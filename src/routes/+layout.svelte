@@ -10,7 +10,7 @@
 </svelte:head>
 
 <header>
-	<nav class="w-full flex justify-center gap-1 h-10">
+	<nav class="w-full flex justify-center gap-1 h-15">
 		<a href="/" class="text-xl font-bold w-30 text-center content-center">Home</a>
 		<a href="/details" class="text-xl font-bold w-30 text-center content-center">Details</a>
 		<a href="/gallery" class="text-xl font-bold w-30 text-center content-center">Gallery</a>
@@ -19,3 +19,10 @@
 <main>
 	{@render children?.()}
 </main>
+
+<!-- debug -->
+<!-- <style>
+	:global(*) {
+		outline: 1px solid red;
+	}
+</style> -->
