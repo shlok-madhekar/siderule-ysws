@@ -1,4 +1,4 @@
-<div class="w-1/2 mx-auto">
+<div class="w-1/2 mx-auto my-2">
     <h1 class="font-bold text-4xl text-center">Details</h1>
     <section>
         <h2 class="text-2xl">Requirements</h2>
@@ -10,8 +10,8 @@
         <h2 class="text-2xl">Rewards</h2>
         You must spend at least:
         <ul>
-            <li class="indent-5.5"><u>5 hours</u> for a <i>scientific calculator</i>.</li>
-            <li class="indent-5.5"><u>20 hours</u> for a <u>graphing calculator</u>.</li>
+            <li class="indent-5.5"><u>5 hours</u> for a <b>scientific calculator</b></li>
+            <li class="indent-5.5"><u>20 hours</u> for a <b>graphing calculator</b></li>
         </ul>
     </section>
     <section>
